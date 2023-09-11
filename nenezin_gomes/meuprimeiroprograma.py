@@ -1,0 +1,1 @@
+print("ola turma de informatica 1c")
